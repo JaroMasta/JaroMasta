@@ -1,6 +1,7 @@
 ### Hi there 👋
 😄 Pronouns: he/him
 🌱 I’m currently learning computer science
+[link do mojej strony] (https://jaromasta.github.io/)
 <!--
 **JaroMasta/JaroMasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
