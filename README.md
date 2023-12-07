@@ -3,7 +3,9 @@
 🌱 I’m currently learning computer science
 [link do mojej strony](https://jaromasta.github.io/)
 
-[link do repozytorium związanego z artykułem](https://github.com/yuliang-liu/monkey)
+[link do forka](https://github.com/JaroMasta/Monkey)
+
+[link do repozytorium z związanego z artykułem](https://github.com/yuliang-liu/monkey)
 
 [link do artykułu](https://paperswithcode.com/paper/monkey-image-resolution-and-text-label-are)
 <!--
